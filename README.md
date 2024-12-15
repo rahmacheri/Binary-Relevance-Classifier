@@ -1,5 +1,5 @@
 # Binary-Relevance-Classifier
-Binary Relevance (BR) is by far the simplest approach: The fundamental concept behind this
+Binary Relevance (BR) is by far the simplest approach to solve Multi-Label problems: The fundamental concept behind this
 algorithm involves dividing the multi-label learning problem into qi distinct binary
 classification problems for each pi label. Each binary classification problem is specifically
 linked to one of the potential labels within the label space.
